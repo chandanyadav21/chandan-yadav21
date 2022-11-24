@@ -1,4 +1,5 @@
 # chandan-yadav21
+![logo](https://github.com/chandanyadav21/chandan-yadav21/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm chandan yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
